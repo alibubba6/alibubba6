@@ -18,12 +18,12 @@ I am a **Master’s student at Old Dominion University** pursuing a degree in **
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-*   **Simulation & Modeling**: Arena Simulation[cite: 1].
+*   **Simulation & Modeling**: Arena Simulation.
 *   **Data Science**: Regex, NumPy, AST, and API Integration (USDA, Google).
 
 ### Featured Project: SMRE Gluten Pipeline
 I am currently developing the **Smart Meal Recommendation Engine (SMRE)** as my capstone project. 
-*   **What it does**: Uses a hybrid system of deterministic auditing and Gemini 3 Flash AI to ensure celiac-safe meal planning[cite: 2].
+*   **What it does**: Uses a hybrid system of deterministic auditing and Gemini 3 Flash AI to ensure celiac-safe meal planning.
 *   **Tech**: Python, Streamlit, and Generative AI.
 *   **Goal**: Solving the challenge of identifying "hidden" gluten in complex datasets.
 
